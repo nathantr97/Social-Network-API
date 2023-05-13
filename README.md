@@ -6,7 +6,7 @@ The idea of this project is to build an API for a social network where users can
 
 ## Table of Contents
 
-- [Installation](#installtion)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
