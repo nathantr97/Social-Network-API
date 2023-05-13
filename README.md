@@ -11,6 +11,7 @@ The idea of this project is to build an API for a social network where users can
 - [Credits](#credits)
 - [License](#license)
 - [Link](#link)
+- [License](#license)
 
 ## Installation 
 
@@ -30,7 +31,7 @@ https://drive.google.com/file/d/1mm6UTyMIwxb_FDrYrW7a2Elbn-cAEcxk/view
 
 ## Credits
 
-Nathan- https://github.com/nathantr97
+Nathan- https://github.com/nathantr97 <br>
 Diego & Erik - AskBCS Assistants
 
 ## License
