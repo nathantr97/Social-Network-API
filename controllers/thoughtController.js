@@ -83,6 +83,7 @@ module.exports = {
     // remove a reaction //
 
     removeReaction(req, res) {
+       
         Thought.findOneAndUpdate(
             { _id: req.params.thoughtId },
             {
