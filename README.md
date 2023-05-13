@@ -31,6 +31,7 @@ https://drive.google.com/file/d/1mm6UTyMIwxb_FDrYrW7a2Elbn-cAEcxk/view
 ## Credits
 
 Nathan- https://github.com/nathantr97
+Diego & Erik - AskBCS Assistants
 
 ## License
 
