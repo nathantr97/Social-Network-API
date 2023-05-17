@@ -11,7 +11,6 @@ The idea of this project is to build an API for a social network where users can
 - [Credits](#credits)
 - [License](#license)
 - [Link](#link)
-- [License](#license)
 
 ## Installation 
 
